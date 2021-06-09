@@ -8,5 +8,6 @@ How to creat your key
 2.Search Open API : https://upbit.com/service_center/open_api_guide
 
 
-We quote PYUPBIT.
-URL : https://github.com/sharebook-kr/pyupbit
+% We quote PYUPBIT.
+How to install PYUPBIT ?
+👉 URL : https://github.com/sharebook-kr/pyupbit
